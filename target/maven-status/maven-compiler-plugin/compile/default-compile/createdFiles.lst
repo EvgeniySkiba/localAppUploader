@@ -1,0 +1,7 @@
+local\app\uploader\Config.class
+local\app\uploader\server\RestService.class
+local\app\uploader\App.class
+local\app\uploader\util\Tuple.class
+local\app\uploader\util\FileManager.class
+local\app\uploader\util\Requester.class
+local\app\uploader\server\GrizzlyServer.class
